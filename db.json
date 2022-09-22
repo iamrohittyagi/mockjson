@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Cycle",
-      "body": " Hashtag Electric has 250W BLDC Hub Motor with 45 Nm torque. This powerful yet noiseless motor will give you thrilling experience. The motor has waterproof cables which adds an extra layer to the product safety.",
+      "body": " Hashtag Electric has 250W BLDC Hub Motor with 45 Nm torque. This powerful yet noiseless motor will give you thrilling experience.",
       "price": "9000",
       "image": "https://images.pexels.com/photos/8811401/pexels-photo-8811401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "rating": "3"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Laptop",
-      "body": "MacBook Air with M1 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design and a beautiful Retina display. Thanks to its slim profile and all‑day battery life, this Air moves at the speed of lightness.",
+      "body": "MacBook Air with M1 is an incredibly portable laptop — it’s nimble and quick, with a silent, fanless design and a beautiful Retina display.",
       "price": "89000",
       "image": "https://images.pexels.com/photos/356055/pexels-photo-356055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "rating": "4"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Table Fan",
-      "body": "Aerodynamically designed blades with a sweep size of 400 mm;Offers air delivery of 65-73 cubic metres per minute (CMM).Three angles of vertical tilting allow you to adjust the fan single-handedly as per requirement;Provides cooling with 1456 rotations per minute (RPM) at maximum speed",
+      "body": "Aerodynamically designed blades with a sweep size of 400 mm;Offers air delivery of 65-73 cubic metres per minute (CMM).",
       "price": "2499",
       "image": "https://images.pexels.com/photos/3675622/pexels-photo-3675622.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "rating": "3.5"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "Moble Phone",
-      "body": "6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield tougher than any smartphone glass.A14 Bionic chip, the fastest chip ever in a smartphone.Advanced dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Deep Fusion, Smart HDR 3, 4K Dolby Vision HDR recording",
+      "body": "6.1-inch (15.5 cm diagonal) Super Retina XDR display Ceramic Shield tougher than any smartphone glass.A14 Bionic chip, the fastest chip ever in a smartphone.",
       "price": "44999",
       "image": "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "rating": "4.5"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Washing Machine",
-      "body": "With features that ensure a great wash every time, this IFB Front Load Washing Machine lets you relax while enjoying a fantastic washing session. IFB Front Load Washing Machine keeps track of all your laundry needs, from Aqua Energie, a filtration procedure for hard water, to up to 2x Power Dual Steam for a sanitary wash and power cleaning. ",
+      "body": "With features that ensure a great wash every time, this IFB Front Load Washing Machine lets you relax while enjoying a fantastic washing session.",
       "price": "25000",
       "image": "https://images.pexels.com/photos/4440652/pexels-photo-4440652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "rating": "3.5"
